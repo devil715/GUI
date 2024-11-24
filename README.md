@@ -30,12 +30,10 @@ Navigate to the project directory:
 
 Install the required dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
+
 Run the program:
 
-bash
+
 Copy code
 python max_prime_factor_finder.py
 🌟 How to Use
